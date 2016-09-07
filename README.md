@@ -9,14 +9,15 @@ https://github.com/thoughtbot/paperclip/wiki/Requirements
 
 After paperclip has been installed, use the following commands to build the application:
 
-bundle install
-rake db:migrate
+'''bundle install
+rake db:migrate'''
 
 
 ##How to run the application
 This application is run on the local host. 
 
 Use the following commands to start the application:
-rails server
 
-Open a browser and type localhost:3000
+'rails server'
+
+Open a browser and type 'localhost:3000'
